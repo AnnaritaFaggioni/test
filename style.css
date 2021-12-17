@@ -1,0 +1,21 @@
+header {
+    background-color: ivory;
+}
+#white {
+    color: white;
+}
+
+#gray {
+    background-color: gray;
+    text-decoration-color: black;
+}
+
+input {
+    color: gray;
+    text-decoration-color: grey;
+}
+
+circle {
+    color: grey;
+    position: absolute;
+}
